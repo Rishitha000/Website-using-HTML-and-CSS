@@ -1,0 +1,99 @@
+.nav{
+     text-align: center;
+    gap: 40px;
+    display: flex;
+}
+    
+.nav a{
+    color: black;
+    margin: auto 10px;
+    position: relative;
+    top: 10px;
+    
+}
+
+.btn{
+    width: 200px;
+    position: relative;
+    margin: auto 10px ;
+    border-radius: 16px;
+    padding: 5px 5px;
+    top: 30px;
+    border: 1px solid  gray;
+}
+
+.img{
+    width: 50px;
+    position: relative;
+    float: left;
+    margin: 10px 10px;
+    border-radius: 50%;
+}
+.nav h1{
+    position: relative;
+    float: left;
+    left: 0px;
+    font-size: 20px;
+    font-family: "Jacques Francois Shadow", serif;
+    font-weight: 400;
+ font-style: normal;
+      color: maroon;
+      
+}
+.nav h2{
+    position: relative;
+    float: left;
+    left: -5px;
+    font-size: 15px;
+    font-weight: 100;
+    bottom: 25%;
+    word-spacing: 0px;
+     color: burlywood;  
+     margin: 0;  
+}
+.font{
+    font-family: "Sofadi One", system-ui;
+     font-weight: 400;
+     font-style: normal;
+}
+.svgg{
+    width: 30px;
+    position: relative;
+    top: 10px;
+    right: 30px;
+}
+.fa-solid{
+    position: relative;
+    right: -38%;
+    top: 9px;
+}
+
+.homeimg{
+    width: 100%;
+    margin-top: 20px;
+    height: 500px;
+    object-fit: cover;
+    position: relative;
+}
+.caption{
+    position: absolute;
+    bottom: 235px;
+    left: 420px;
+    font-size: 60px;
+    font-family: "Protest Guerrilla", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+    color:#800000;    
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+.tag{
+    position:absolute;
+    font-size: 30px;
+    bottom: 210px;
+    left: 520px;
+    font-family: "Sofadi One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color: #982B1C;   
+}

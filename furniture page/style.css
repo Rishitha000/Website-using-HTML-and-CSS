@@ -1,0 +1,71 @@
+.title{
+    font-family: "Sofadi One", system-ui;
+     font-weight: 400;
+     font-style: normal;
+     display: flex;
+     gap: 70%;
+     font-size: 20px;
+     flex-wrap: wrap;
+ }
+ .icon{
+    width: 15px;
+    position: relative;
+    bottom:43%;
+    left: 70px;
+ }
+ .img1{
+    object-fit: cover;
+    border-radius: 16px;
+    width: 100%;
+ }
+ .font{
+    font-family: "Sofadi One", system-ui;
+     font-weight: 400;
+     font-style: normal;
+    
+}
+.furniture{
+    display: flex;
+    gap: 10px;
+    width: 100%;
+    justify-content: space-between;
+    flex-wrap: wrap ;
+}
+.card1{
+    border: 1px solid gray;
+    width: 260px;
+    margin: auto 10px;
+    border-radius: 20px;
+    padding: 5px 5px;
+ }
+ .items1{
+    font-size: 20px;
+    margin: auto 10px;  
+     }
+.text{
+    text-decoration: none;
+    color: black;
+}
+.card2{
+    border: 1px solid gray;
+    border-radius: 20px;
+    width: 260px;
+}
+.furniture2{
+    display: flex;
+    gap: 20px;
+    width: 100%;
+    margin-top:15px;
+    margin-left: -13px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.img2{
+    width: 100%;
+    border-radius: 16px;
+    height: 100%;
+    object-fit: cover;
+}
+a:hover{
+    text-decoration: underline;
+}

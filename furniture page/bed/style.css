@@ -1,0 +1,56 @@
+.title{
+    font-family: "Sofadi One", system-ui;
+     font-weight: 400;
+     font-style: normal;
+     display: flex;
+     gap: 80%;
+     font-size: 20px;
+     flex-wrap: wrap;
+ }
+ .icon{
+    width: 15px;
+    position: relative;
+    bottom:43%;
+    left: 70px;
+ }
+.card1{
+    width: 350px;
+    height: 350px;
+    border: 1px solid gray;
+    text-align: center;
+    padding: 15px 5px;
+    border-radius: 16px;
+    background-color: rgb(255, 243, 229);
+}
+.img1{
+    width: 300px;
+    border-radius: 16px;
+}
+.rating{
+    display: flex;  
+    justify-content: space-between;
+}
+.fa-star{
+    position: relative;
+    left: 55px;
+    bottom: 35px;
+}
+.fa-star-half-stroke{
+    position: relative;
+    left: 55px;
+    bottom: 35px;;
+}
+.fa-cart-shopping{
+    position: relative;
+    bottom: -13px;
+    right: 10px;
+}
+.beds{
+    display:flex;
+    gap: 50px;
+}
+.img2{
+    width: 230px;
+    height: 230px;
+    border-radius: 16px;
+}
